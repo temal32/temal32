@@ -7,7 +7,7 @@
 <p align="center">
 <br><br>
 <a href="https://github.com/temal32?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smuv&layout=compact&show_icons=true&title_color=fff&icon_color=00FFFF&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temal32&layout=compact&show_icons=true&title_color=fff&icon_color=00FFFF&text_color=9f9f9f&bg_color=151515" />
 </a>
 <br>
 <br>
