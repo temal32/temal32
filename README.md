@@ -11,5 +11,5 @@
 </a>
 <br>
 <br>
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=temal.temal" />
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=temal32" />
 </p>
