@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything you want.**
 
-- 📫 How to reach me **contact@temal.cf**
+- 📫 How to reach me **@cmtl on Discord**
 
 - ⚡ Fun fact **I think I am funny**
 
